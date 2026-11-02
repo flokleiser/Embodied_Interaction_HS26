@@ -7,6 +7,7 @@ Create your own folder and keep all your scripts in it:
 For example `students/anna/first_moves.py`. Start by copying an example:
 
 test
+test 2
 
 ```bash
 mkdir -p students/anna
